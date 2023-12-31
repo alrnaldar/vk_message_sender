@@ -3,7 +3,7 @@ import random
 
 user_login = ''
 user_password = ''
-app_id = ''
+app_id = '2685278' #оставляем этот
 
 def captcha_handler(captcha):
     # Решение капчи
